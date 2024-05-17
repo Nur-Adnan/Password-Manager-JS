@@ -1,1 +1,2 @@
-# Password-Manager-JS
+# passx-password-manager
+ 
